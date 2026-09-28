@@ -21,3 +21,7 @@ Dion . He oway , befuth you thindwiDnice at foul offeer's realy . How you faates
 bigram + mha + feed fwd + block architecture + residual connections + layer norm:
 You a st the cromelime ? Yes , and theand fodidind in complatile gen the toces you my hankink the yo
 {'train': tensor(1.8061), 'val': tensor(1.8066)}
+
+same but scaled up context length and depth:
+Good choice , What , I just have to pay Theatrel Text tomorrow . What happened ? What sort of my gir
+{'train': tensor(0.9370), 'val': tensor(0.9945)}
