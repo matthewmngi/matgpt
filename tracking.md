@@ -25,3 +25,5 @@ You a st the cromelime ? Yes , and theand fodidind in complatile gen the toces y
 same but scaled up context length and depth:
 Good choice , What , I just have to pay Theatrel Text tomorrow . What happened ? What sort of my gir
 {'train': tensor(0.9370), 'val': tensor(0.9945)}
+
+encoder-decoder architecture:
